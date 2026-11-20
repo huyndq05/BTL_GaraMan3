@@ -1,0 +1,70 @@
+# Dịch vụ, nhóm và hạng mục theo thứ tự hiển thị. Giá mẫu tính bằng đồng.
+
+service	1	Bảo dưỡng
+item	Dầu máy	170000
+item	Gạt mưa: cao su gạt mưa/chổi gạt mưa	90000
+item	Đai dẫn động	210000
+item	Cần gạt mưa	110000
+item	Lọc dầu	95000
+item	Lọc gió động cơ	120000
+item	Bugi	145000
+item	Lọc nhiên liệu	165000
+item	Lọc gió điều hòa	115000
+item	Dầu phanh	180000
+item	Dầu hộp số	320000
+item	Nước làm mát	155000
+
+service	2	Sửa chữa chung
+group	phanh	Hệ thống phanh	260000
+item	Má phanh trước/sau	180000
+item	Đĩa phanh	300000
+item	Bầu trợ lực phanh	360000
+item	Ống dầu phanh	160000
+item	Phanh tay	140000
+group	lai	Hệ thống lái	290000
+item	Vô lăng	190000
+item	Trợ lực lái	260000
+item	Thước lái	450000
+item	Trụ lái	230000
+item	Ty ô trợ lực	170000
+group	dien	Hệ thống điện, điều hòa	250000
+item	Ắc quy	120000
+item	Máy phát điện	300000
+item	Củ đề	250000
+item	Lốc điều hòa	470000
+item	Giàn lạnh / Nạp gas điều hòa	420000
+group	lammat	Hệ thống làm mát	240000
+item	Két nước làm mát	350000
+item	Bơm nước	310000
+item	Quạt làm mát	190000
+item	Van hằng nhiệt	160000
+item	Ống dẫn nước làm mát	130000
+group	treogam	Hệ thống treo/gầm	280000
+item	Giảm xóc trước/sau	350000
+item	Rô-tuyn lái / trụ đứng	240000
+item	Cao su càng A / chân máy	260000
+item	Lò xo giảm xóc	290000
+item	Thanh cân bằng	190000
+group	noithat	Hệ thống nội thất	220000
+item	Ghế lái / ghế phụ	250000
+item	Bảng táp-lô	320000
+item	Màn hình giải trí / loa	210000
+item	Trần xe / thảm sàn	200000
+item	Dây đai an toàn	160000
+group	chandoan	Chẩn đoán đèn báo lỗi và cập nhật phần mềm	220000
+
+service	3	Đồng sơn
+group	thanvo	Thay thế chi tiết thân vỏ	420000
+item	Đèn: đèn pha, đèn hậu, đèn phanh, đèn xi nhan, đèn gầm	270000
+item	Gương chiếu hậu	180000
+item	Lô gô xe	85000
+item	Công tắc điều khiển lên xuống kính cửa	150000
+item	Gioăng cánh cửa, khung cửa	135000
+item	Kính chắn gió: trước, sau	450000
+item	Kính cánh cửa: trước, sau	290000
+group	sonsua	Sơn sửa phục hồi	580000
+item	Cản trước / cản sau	470000
+item	Nắp ca-pô / nắp cốp	620000
+item	Cánh cửa trước / sau	520000
+item	Tai xe / hông xe	570000
+item	Sơn phủ phục hồi thân vỏ	1150000
